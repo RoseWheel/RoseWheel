@@ -1,0 +1,54 @@
+           ___           ___           ___           ___
+          /\  \         /\  \         /\  \         /\  \
+         /::\  \       /::\  \       /::\  \       /::\  \
+        /:/\:\  \     /:/\:\  \     /:/\ \  \     /:/\:\  \
+       /::\~\:\  \   /:/  \:\  \   _\:\~\ \  \   /::\~\:\  \
+      /:/\:\ \:\__\ /:/__/ \:\__\ /\ \:\ \ \__\ /:/\:\ \:\__\
+      \/_|::\/:/  / \:\  \ /:/  / \:\ \:\ \/__/ \:\~\:\ \/__/
+         |:|::/  /   \:\  /:/  /   \:\ \:\__\    \:\ \:\__\
+         |:|\/__/     \:\/:/  /     \:\/:/  /     \:\ \/__/
+         |:|  |        \::/  /       \::/  /       \:\__\
+          \|__|         \/__/         \/__/         \/__/
+      ___           ___           ___           ___           ___
+     /\__\         /\__\         /\  \         /\  \         /\__\
+    /:/ _/_       /:/  /        /::\  \       /::\  \       /:/  /
+   /:/ /\__\     /:/__/        /:/\:\  \     /:/\:\  \     /:/  /
+  /:/ /:/ _/_   /::\  \ ___   /::\~\:\  \   /::\~\:\  \   /:/  /
+ /:/_/:/ /\__\ /:/\:\  /\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/__/
+ \:\/:/ /:/  / \/__\:\/:/  / \:\~\:\ \/__/ \:\~\:\ \/__/ \:\  \
+  \::/_/:/  /       \::/  /   \:\ \:\__\    \:\ \:\__\    \:\  \
+   \:\/:/  /        /:/  /     \:\ \/__/     \:\ \/__/     \:\  \
+    \::/  /        /:/  /       \:\__\        \:\__\        \:\__\
+     \/__/         \/__/         \/__/         \/__/         \/__/
+
+
+Welcome to the RoseWheel Project !
+
+Rosewheel is a self-balancing vehicle developped by 4 students of
+robotics & embedded systems at Télécom ParisTech, a french engineering
+school. It can be remotely controlled by an Android phone using
+BlueTooth, and the phone may be used as a dashboard when driving the
+vehicle. For more information about this project check our website:
+RoseWheel.free.fr
+
+* The PCB files are given in the "hardware" folder (hint: read the Makefile)
+* To program the microcontrollers you may use an Olimex ARM jtag probe
+* The compiler can be found at http://rosewheel.free.fr/arm-none-eabi.tgz
+* to program the microcontrollers use the following command: make flash
+
+Enjoy !
+
+Copyright (C) 2011 RoseWheel Team <rosewheel@googlegroups.com>
+
+This project is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This project is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
